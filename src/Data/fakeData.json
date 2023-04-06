@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Mr. Raju",
+      "title": "How to get your first job as a self-taught programmer 1",
+      "banner": "https://i.ibb.co/4RFC0c0/banner1.jpg",
+      "picture": "https://i.ibb.co/KL1VR7N/profile1.jpg",
+      "date": "Mar 14 (4 Days ago)",
+      "readingTime": 5,
+      "tag": [
+        "beginner",
+        "programming"
+      ],
+      "read": "Mark as read"
+    },
+    {
+      "id": 2,
+      "name": "Mrs. Setara",
+      "title": "How to get your first job as a self-taught programmer 2",
+      "banner": "https://i.ibb.co/Y7tYSzP/banner2.jpg",
+      "picture": "https://i.ibb.co/d5zLPwK/profile2.jpg",
+      "date": "Mar 14 (4 Days ago)",
+      "readingTime": 10,
+      "tag": [
+        "beginner",
+        "programming"
+      ],
+      "read": "Mark as read"
+    },
+    {
+      "id": 3,
+      "name": "Mina Mostofa",
+      "title": "How to get your first job as a self-taught programmer 3",
+      "banner": "https://i.ibb.co/gb049bW/banner3.jpg",
+      "picture": "https://i.ibb.co/R4w8LK6/profile3.jpg",
+      "date": "Mar 14 (4 Days ago)",
+      "readingTime": 12,
+      "tag": [
+        "beginner",
+        "programming"
+      ],
+      "read": "Mark as read"
+    },
+    {
+      "id": 4,
+      "name": "Mehedi Hasan",
+      "title": "How to get your first job as a self-taught programmer 4",
+      "banner": "https://i.ibb.co/HV5cBzn/banner4.jpg",
+      "picture": "https://i.ibb.co/vkXJjXK/profile4.jpg",
+      "date": "Mar 14 (4 Days ago)",
+      "readingTime": 7,
+      "tag": [
+        "beginner",
+        "programming"
+      ],
+      "read": "Mark as read"
+    }
+  ]
